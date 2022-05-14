@@ -1,0 +1,44 @@
+a = ["","","","","","","","",""]
+print(a)
+x = int(input())
+a[x] = 'x'
+import random
+o = random.randrange(0,9)
+a[o] = 'o'
+if o or x:
+    
+
+
+
+
+
+# if o == 1:
+#     a[1] = o
+#     print(a)
+# elif o == 2:
+#     a[2] = o
+#     print(a)
+# elif o == 3:
+#     a[3] = o
+#     print(a)
+# elif o == 4:
+#     a[4] = o
+#     print(a)
+# elif o == 5:
+#     a[5] = o
+#     print(a)
+# elif o == 6:
+#     a[6] = o
+#     print(a)
+# elif o == 7:
+#     a[7] = o
+#     print(a)
+# elif o == 8:
+#     a[8] = o
+#     print(a)
+# elif o == 9:
+#     a[9] = o
+#     print(a)
+# a = [1,2,3,4]
+# a[1] = 6
+# print(a)
